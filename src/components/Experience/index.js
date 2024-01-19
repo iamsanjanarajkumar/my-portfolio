@@ -11,13 +11,16 @@ import ExperienceCard from '../Cards/ExperienceCard';
 
 const Container = styled.div`
 display: flex;
-flex-direction: column;
-justify-content: center;
-position: relative;
-z-index: 1;
-align-items: center;
-padding: 50px 0px;
-`
+    flex-direction: column;
+    justify-content: center;
+    position: relative;
+    z-index: 1;
+    align-items: center;
+    padding: 40px 0px 80px 0px;
+    @media (max-width: 960px) {
+        padding: 0px;
+    }
+`;
 const Wrapper = styled.div`
 position: relative;
 display: flex;
