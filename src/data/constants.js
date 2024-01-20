@@ -139,7 +139,6 @@ export const Bio = {
         "CSS",
         "CSS-3",
         "Javascript",
-        "TypeScript",
         "ReactJS",
         "NodeJS",
         "ExpressJS",
@@ -151,7 +150,7 @@ export const Bio = {
     {
       id: 1,
       img: "data:image/jpeg;base64,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",
-      role: "Jr. Frontend Developer",
+      role: "Associate Software Engineer",
       company: "AgilePoint Software Limited",
       date: "Aug 2022 - Feb 2023",
       desc: "Worked on Mobile App Accelerator Project which was MERN stack based",
@@ -171,25 +170,25 @@ export const Bio = {
   export const education = [
     {
       id: 0,
-      img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/Kiit.jpeg?alt=media&token=3839d520-c59d-4341-ad8f-0980c98de4dd",
+      img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR0rltfvM-tlV3gy-tl0RpQqVsHTViUYPBqQ&usqp=CAU",
       school: "Rajarajeswari College Of Engineering, Bangalore",
-      date: "Aug 2018 - Sep 2022",
+      date: "Aug 2018 - Nov 2022",
       grade: "7.7 CGPA",
-      desc: "I am currently pursuing a Bachelor's degree in Computer Science and Engineering at Kalinga Institute of Industrial Technology, Bhubaneswar. I have completed 4 semesters and have a CGPA of 8.71. I have taken courses in Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, Operating Systems, and Computer Networks, among others. I am also a member of the Google Developers Student Club (GDSC) at KIIT, where I am learning and working on exciting projects with a team of talented developers.",
+      desc: "An aspiring engineer with a passion for technology and its potential to drive positive change.I hold a bachelor's degree in Information Science Engineering from Rajarajeshwari College of engineering,Bangalore ,where I gained a strong foundation in core engineering principles.I have always been captivated by the power of science and technology to shape the world we live in, and it is this passion that led me to pursue a career in engineering.",
       degree: "Bachelor of Engineering - BE, Information Science and Engineering",
     },
     {
       id: 1,
-      img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/methodist.png?alt=media&token=018a1b18-e2dd-4f34-8855-cff1b6b69fd3",
+      img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJn7t9MGA3N70p5yV7uoCvDSqtqLHOuRdkWw&usqp=CAU",
       school: "Seshadripuram Composite PU College, Bangalore",
       date: "June 2016 - Apr 2018",
       grade: "76.7%",
-      desc: "I completed my class 12 high school education at Seshadripuram Composite PU College, Bangalore, where I studied Science with Computer Science.",
+      desc: "I completed my class 12 high school or PUC  education at Seshadripuram Composite PU College, Bangalore, where I studied Science with Computer Science.",
       degree: "PUC(State), Science with Computer(PCMC)",
     },
     {
       id: 2,
-      img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/methodist.png?alt=media&token=018a1b18-e2dd-4f34-8855-cff1b6b69fd3",
+      img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0m2TtfNBrUrhd-r_CZcYXMrIJ2IrmqOkD2A&usqp=CAU",
       school: "Cluny Convent High School,Malleshwaram",
       date: "Apr 2015 - Apr 2016",
       grade: "79.7%",
@@ -206,7 +205,7 @@ export const Bio = {
       description:
         "A simple & effective Todo App for managing & listing daily tasks.It is a functional & user-friendly app helping user to sort a task into Business or Personal category.Further,the app is made user interactive with addition of multiple todos, updation of each task,deletion of a task.In addition , user can mark the completed tasks which will help them to track their progress.",
       image:
-        "https://user-images.githubusercontent.com/64485885/234602896-a1bd8bcc-b72b-4821-83d6-8ad885bf435e.png",
+        "https://drive.google.com/file/d/1Gqe7FErq1NfiM00aWr7kddt-YUEdoYmY/view?usp=drive_link",
       tags: ["HTML","CSS","Javascript"],
       category: "web app",
       github: "https://github.com/iamsanjanarajkumar/ToDo-App.git",
@@ -219,7 +218,7 @@ export const Bio = {
       description:
         "The objective of this project is to develop a modern and responsive music streaming web application that emulates the core features of Spotify.The application will be built using the React framework.It will integrate with the Spotify Web API to allow users to explore and play music, create playlists,and personalize their music experience.Key features: • User Authentication,Browsing and Searching • Music Playback • Creating Playlists • Responsive Design • Integration with Spotify API",
       image:
-        "https://user-images.githubusercontent.com/64485885/234916413-96296f13-fe4b-4cc4-b215-e72bd7c27928.png",
+        "https://photos.app.goo.gl/aAqh6XxrWk56KGX79",
       tags: [
         "React Js","Bootstrap"
       ],
@@ -234,7 +233,7 @@ export const Bio = {
       description:
         "Github profile finder is a project built with ReactJS, which uses Github API to searchprofiles by their user names.It is designed to display all the repositories info and profile’s info in a modern UI.",
       image:
-        "https://github.com/rishavchanda/Brain-Tumor-Detection/raw/main/Readme_resource/Image2.png",
+        "https://drive.google.com/file/d/1egFBAp9yOhwnGvQkMm81FGk5L_2ury-O/view?usp=drive_link",
       tags: ["React","Boostrap","GitHub API"],
       category: "Web app",
       github: "https://github.com/iamsanjanarajkumar/React-Git-Profile-Finder.git",
@@ -247,25 +246,25 @@ export const Bio = {
       description:
         "MX Player Clone is a web based application that fundamentally focuses on enterntainment.The most enjoyable app that incorporates all types of diversion in One stage - top evaluation disconnected video player, internet web based and sound music. Responsive making it available on Multiple devices .",
       image:
-        "https://camo.githubusercontent.com/fbf405040ae86b5d4a40f24e4ac034982cb8c0e2d850560ba64527997b258be8/68747470733a2f2f666972656261736573746f726167652e676f6f676c65617069732e636f6d2f76302f622f6c6f67696e2d65613565322e61707073706f742e636f6d2f6f2f4255434b4f49442532302831292e706e673f616c743d6d6564696126746f6b656e3d32653735376235372d323964372d346263612d613562322d653164346538313432373435",
+        "https://drive.google.com/file/d/1tt4agSy3W0B87XMByEDsyYi7B8_0G9y0/view?usp=drive_link",
       tags: ["ReactJs","react-bootstrap"],
       category: "web app",
       github: "https://github.com/iamsanjanarajkumar/mx-player.git",
       webapp: "https://mx-player-m0xifu05e-sanjana-rajkumars-projects.vercel.app",
     },
-    {
-      id: 4,
-      title: "Travel Advisory",
-      // date: "Jul 2021",
-      description:
-        "A WhatsApp clone made with React JS, Firebase, and Material UI. It has Phone Authentication, Real-time Database. It has a chat room where users can chat with each other. It has a sidebar where users can see all the chat rooms and can create a new chat room. It has a login page where users can log in with their Google account.",
-      image:
-        "https://firebasestorage.googleapis.com/v0/b/whatsapp-clone-rishav.appspot.com/o/Screenshot%20(151).png?alt=media&token=48391593-1ef0-4a8c-a92a-eb82bdf38e89",
-      tags: ["React Js", "Google Map API","Bootstap"],
-      category: "web app",
-      github: "https://github.com/rishavchanda/Whatsapp-Clone-React-Js",
-      webapp: "https://whatsapp-clone-rishav.web.app",
-    }
+    // {
+    //   id: 4,
+    //   title: "Travel Advisory",
+    //   // date: "Jul 2021",
+    //   description:
+    //     "A WhatsApp clone made with React JS, Firebase, and Material UI. It has Phone Authentication, Real-time Database. It has a chat room where users can chat with each other. It has a sidebar where users can see all the chat rooms and can create a new chat room. It has a login page where users can log in with their Google account.",
+    //   image:
+    //     "https://firebasestorage.googleapis.com/v0/b/whatsapp-clone-rishav.appspot.com/o/Screenshot%20(151).png?alt=media&token=48391593-1ef0-4a8c-a92a-eb82bdf38e89",
+    //   tags: ["React Js", "Google Map API","Bootstap"],
+    //   category: "web app",
+    //   github: "https://github.com/rishavchanda/Whatsapp-Clone-React-Js",
+    //   webapp: "https://whatsapp-clone-rishav.web.app",
+    // }
    
    
   ];
