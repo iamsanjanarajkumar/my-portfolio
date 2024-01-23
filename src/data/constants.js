@@ -205,7 +205,7 @@ export const Bio = {
       description:
         "A simple & effective Todo App for managing & listing daily tasks.It is a functional & user-friendly app helping user to sort a task into Business or Personal category.Further,the app is made user interactive with addition of multiple todos, updation of each task,deletion of a task.In addition , user can mark the completed tasks which will help them to track their progress.",
       image:
-        "https://drive.google.com/file/d/1Gqe7FErq1NfiM00aWr7kddt-YUEdoYmY/view?usp=drive_link",
+        "https://res.cloudinary.com/dvzviljl7/image/upload/v1705995014/Todo_App_bwedzj.png",
       tags: ["HTML","CSS","Javascript"],
       category: "web app",
       github: "https://github.com/iamsanjanarajkumar/ToDo-App.git",
@@ -218,7 +218,7 @@ export const Bio = {
       description:
         "The objective of this project is to develop a modern and responsive music streaming web application that emulates the core features of Spotify.The application will be built using the React framework.It will integrate with the Spotify Web API to allow users to explore and play music, create playlists,and personalize their music experience.Key features: • User Authentication,Browsing and Searching • Music Playback • Creating Playlists • Responsive Design • Integration with Spotify API",
       image:
-        "https://photos.app.goo.gl/aAqh6XxrWk56KGX79",
+        "https://res.cloudinary.com/dvzviljl7/image/upload/v1705994996/Music-player_e5nqck.png",
       tags: [
         "React Js","Bootstrap"
       ],
@@ -233,7 +233,7 @@ export const Bio = {
       description:
         "Github profile finder is a project built with ReactJS, which uses Github API to searchprofiles by their user names.It is designed to display all the repositories info and profile’s info in a modern UI.",
       image:
-        "https://drive.google.com/file/d/1egFBAp9yOhwnGvQkMm81FGk5L_2ury-O/view?usp=drive_link",
+        "https://res.cloudinary.com/dvzviljl7/image/upload/v1705994902/Github-Profile-finder_tig76k.png",
       tags: ["React","Boostrap","GitHub API"],
       category: "Web app",
       github: "https://github.com/iamsanjanarajkumar/React-Git-Profile-Finder.git",
@@ -246,7 +246,7 @@ export const Bio = {
       description:
         "MX Player Clone is a web based application that fundamentally focuses on enterntainment.The most enjoyable app that incorporates all types of diversion in One stage - top evaluation disconnected video player, internet web based and sound music. Responsive making it available on Multiple devices .",
       image:
-        "https://drive.google.com/file/d/1tt4agSy3W0B87XMByEDsyYi7B8_0G9y0/view?usp=drive_link",
+        "https://res.cloudinary.com/dvzviljl7/image/upload/v1705995011/MX-Player_jpceye.png",
       tags: ["ReactJs","react-bootstrap"],
       category: "web app",
       github: "https://github.com/iamsanjanarajkumar/mx-player.git",
